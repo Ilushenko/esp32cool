@@ -17,3 +17,4 @@ Designed for use with Intel LGA775, LGA1155, LGA1150, and LGA1156 socket CPUs
 ## Schematics
 ![Scheme](./schematics.png)
 
+![Cirkit](./cirkit.png)
