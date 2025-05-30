@@ -7,6 +7,9 @@
 
 Designed for use with Intel LGA775, LGA1155, LGA1150, and LGA1156 socket CPUs
 
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua)
+
 ## Board
 - ESP32 DevKitC v4
 
